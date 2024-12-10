@@ -1,0 +1,212 @@
+{
+  "id": "4435460",
+  "name": "bilimainpage",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1420791",
+      "name": "PC",
+      "font_class": "pc",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "6151052",
+      "name": "mobile-alt",
+      "font_class": "mobile-alt",
+      "unicode": "e79a",
+      "unicode_decimal": 59290
+    },
+    {
+      "icon_id": "109786",
+      "name": "service",
+      "font_class": "service",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "1837326",
+      "name": "user_m",
+      "font_class": "user_m",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "7442349",
+      "name": "video",
+      "font_class": "video1",
+      "unicode": "e758",
+      "unicode_decimal": 59224
+    },
+    {
+      "icon_id": "11356284",
+      "name": "HD",
+      "font_class": "HD",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "18977917",
+      "name": "film",
+      "font_class": "film",
+      "unicode": "e736",
+      "unicode_decimal": 59190
+    },
+    {
+      "icon_id": "33774122",
+      "name": "免费课",
+      "font_class": "mianfeike",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "12300445",
+      "name": "circle",
+      "font_class": "yuan",
+      "unicode": "e833",
+      "unicode_decimal": 59443
+    },
+    {
+      "icon_id": "1817747",
+      "name": "弹幕",
+      "font_class": "danmu",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "4765968",
+      "name": "play-square",
+      "font_class": "play-square",
+      "unicode": "e796",
+      "unicode_decimal": 59286
+    },
+    {
+      "icon_id": "35336361",
+      "name": "rotate",
+      "font_class": "rotate",
+      "unicode": "e8b8",
+      "unicode_decimal": 59576
+    },
+    {
+      "icon_id": "1117108",
+      "name": "paper",
+      "font_class": "paper",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "4766678",
+      "name": "bulb",
+      "font_class": "bulb",
+      "unicode": "e7c3",
+      "unicode_decimal": 59331
+    },
+    {
+      "icon_id": "4766918",
+      "name": "mail",
+      "font_class": "mail",
+      "unicode": "e7de",
+      "unicode_decimal": 59358
+    },
+    {
+      "icon_id": "4766954",
+      "name": "star",
+      "font_class": "star",
+      "unicode": "e7df",
+      "unicode_decimal": 59359
+    },
+    {
+      "icon_id": "4936460",
+      "name": "fire",
+      "font_class": "fire",
+      "unicode": "e842",
+      "unicode_decimal": 59458
+    },
+    {
+      "icon_id": "5466021",
+      "name": "clock",
+      "font_class": "clock",
+      "unicode": "e711",
+      "unicode_decimal": 59153
+    },
+    {
+      "icon_id": "5802479",
+      "name": "放大镜",
+      "font_class": "Magnifier",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "6151211",
+      "name": "flag",
+      "font_class": "flag",
+      "unicode": "e7ef",
+      "unicode_decimal": 59375
+    },
+    {
+      "icon_id": "7009036",
+      "name": "video",
+      "font_class": "video",
+      "unicode": "e73b",
+      "unicode_decimal": 59195
+    },
+    {
+      "icon_id": "12284220",
+      "name": "windmill",
+      "font_class": "fengche",
+      "unicode": "e827",
+      "unicode_decimal": 59431
+    },
+    {
+      "icon_id": "12579405",
+      "name": "pacman",
+      "font_class": "pacman",
+      "unicode": "e751",
+      "unicode_decimal": 59217
+    },
+    {
+      "icon_id": "18978050",
+      "name": "tv",
+      "font_class": "tv",
+      "unicode": "e74e",
+      "unicode_decimal": 59214
+    },
+    {
+      "icon_id": "20112470",
+      "name": "bx-chat",
+      "font_class": "bx-chat",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "28583988",
+      "name": "smile_square",
+      "font_class": "smile_square",
+      "unicode": "e9b7",
+      "unicode_decimal": 59831
+    },
+    {
+      "icon_id": "31982391",
+      "name": "music-square",
+      "font_class": "music-square",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "34452995",
+      "name": "download",
+      "font_class": "download",
+      "unicode": "e839",
+      "unicode_decimal": 59449
+    },
+    {
+      "icon_id": "34453073",
+      "name": "upload",
+      "font_class": "upload",
+      "unicode": "e846",
+      "unicode_decimal": 59462
+    }
+  ]
+}
